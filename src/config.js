@@ -1,3 +1,3 @@
 export default {
-    API_ENDPOINT: 'http://localhost:8000' || process.env.REACT_APP_BASE_URL
+    API_ENDPOINT: `https://agile-falls-61198.herokuapp.com/`
   }
